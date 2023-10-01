@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import "./workoutPage.css";
+import "./Chest.css";
 
 const page = () => {
   const [workout, setWorkout] = React.useState<any>(null);
